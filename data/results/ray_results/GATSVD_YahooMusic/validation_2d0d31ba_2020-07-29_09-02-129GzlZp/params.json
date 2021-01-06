@@ -1,0 +1,9 @@
+{
+  "activation_in": "softsign", 
+  "activation_out": "softplus", 
+  "alpha": 0.0001187158112307033, 
+  "k": 9.0, 
+  "n_head": 2.0, 
+  "rank": 7.0, 
+  "residual": false
+}

@@ -1,0 +1,2 @@
+experiment_tag,hostname,training_iteration,experiment_id,node_ip,iterations_since_restore,timestamp,pid,rmse,trial_id,episodes_total,timesteps_total,timesteps_since_restore,done,updates,time_total_s,time_since_restore,date,time_this_iter_s
+"402_activation_in=elu,activation_out=softsign,alpha=4.1396e-05,beta=2.9894e-06,k=11.0,n_head=4.0,rank=55.0,residual=True",matlaber7,0,b5b6e2582cc045508f7988e3cbd7313b,18.27.79.46,1,1597855807,9264,3.1500197052955627,8ec2c0a0,,,0,False,3100.0,1216.6736319065094,1216.6736319065094,2020-08-19_12-50-07,1216.6736319065094

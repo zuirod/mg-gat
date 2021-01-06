@@ -1,0 +1,9 @@
+{
+  "activation_in": "selu", 
+  "activation_out": "selu", 
+  "alpha": 3.6587467396581854e-05, 
+  "k": 11.0, 
+  "n_head": 3.0, 
+  "rank": 43.0, 
+  "residual": false
+}

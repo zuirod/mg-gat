@@ -1,0 +1,10 @@
+{
+  "activation_in": "softsign", 
+  "activation_out": "hard_sigmoid", 
+  "alpha": 7.829165060262554e-06, 
+  "beta": 0.004235395019062961, 
+  "k": 5.0, 
+  "n_head": 1.0, 
+  "rank": 26.0, 
+  "residual": true
+}

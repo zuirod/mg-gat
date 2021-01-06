@@ -1,0 +1,9 @@
+{
+  "activation_in": "linear", 
+  "activation_out": "tanh", 
+  "alpha": 6.659727716344913e-06, 
+  "k": 16.0, 
+  "n_head": 4.0, 
+  "rank": 5.0, 
+  "residual": true
+}

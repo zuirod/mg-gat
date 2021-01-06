@@ -1,0 +1,2 @@
+updates,rmse,time_this_iter_s,done,timesteps_total,episodes_total,training_iteration,experiment_id,date,timestamp,time_total_s,pid,hostname,node_ip,time_since_restore,timesteps_since_restore,iterations_since_restore,trial_id,experiment_tag
+2700.0,3.1421701312065125,645.692316532135,True,,,1,fb417d86f14e42609294764ec2513380,2020-08-24_11-10-01,1598281801,645.692316532135,7709,matlaber5,18.27.79.48,645.692316532135,0,1,a3893dd3,"413_alpha=9.1199e-07,beta=0.27644,rank=16.0"

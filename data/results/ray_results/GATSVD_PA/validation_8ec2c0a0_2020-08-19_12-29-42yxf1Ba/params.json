@@ -1,0 +1,10 @@
+{
+  "activation_in": "elu", 
+  "activation_out": "softsign", 
+  "alpha": 4.1396196074356805e-05, 
+  "beta": 2.9894473379140017e-06, 
+  "k": 11.0, 
+  "n_head": 4.0, 
+  "rank": 55.0, 
+  "residual": true
+}

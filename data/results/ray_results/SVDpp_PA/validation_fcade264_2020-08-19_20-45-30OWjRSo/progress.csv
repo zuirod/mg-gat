@@ -1,0 +1,2 @@
+experiment_tag,hostname,training_iteration,experiment_id,node_ip,iterations_since_restore,timestamp,pid,rmse,trial_id,episodes_total,timesteps_total,timesteps_since_restore,done,updates,time_total_s,time_since_restore,date,time_this_iter_s
+"203_alpha=2.0717e-06,rank=1.0",matlaber6,0,6d4191db0a0e427d871c44d0f498dd4d,18.27.79.47,1,1597884760,23332,3.1709307432174683,fcade264,,,0,False,5800.0,418.0951178073883,418.0951178073883,2020-08-19_20-52-40,418.0951178073883
