@@ -5,11 +5,19 @@ This repository holds the Tensorflow based implementation of Multi-Graph Graph A
 
 ## Getting started
 
-You may create a conda environment using:
+We recommend using a conda virtual environment:
 ```
-conda create --name mggat_env --file requirements.txt
+conda create -n mggat_env python=3.7
+conda activate mggat_env
 ```
-
+Install TensorFlow (your installation may vary):
+```
+conda install tensorflow-gpu==2.4.1
+```
+Pip install packages:
+```
+pip install ray==0.8.7 ray[tune] hyperopt pandas scikit-learn
+```
 To train our model on the MovieLens100K dataset, run:
 ```
 python models.py
